@@ -4,6 +4,8 @@ const nextConfig = {
     images: {
       unoptimized: true,
     },
+    basePath: '/bookmark-manager',
+    assetPrefix: '/bookmark-manager/',
   }
   
   module.exports = nextConfig
