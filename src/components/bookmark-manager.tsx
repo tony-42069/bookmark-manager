@@ -3,7 +3,7 @@
 import React, { useState, useCallback, useEffect } from 'react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
-import { Search, Tag, Folder, Calendar, Globe, Star, Moon, Sun, Info } from 'lucide-react';
+import { Search, Folder, Calendar, Globe, Star, Moon, Sun, Info } from 'lucide-react';
 import _ from 'lodash';
 
 interface Bookmark {
