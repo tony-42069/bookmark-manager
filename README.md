@@ -145,4 +145,3 @@ If you encounter any issues or have questions:
 
 ---
 
-Made with ❤️ for the AI community
