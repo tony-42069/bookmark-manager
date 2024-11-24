@@ -76,8 +76,8 @@ The extension automatically organizes your bookmarks into these categories:
 
 ## 🚀 Installation
 
-1. **Chrome Web Store** (Coming Soon)
-   - Visit the Chrome Web Store page
+1. **Chrome Web Store**
+   - Visit the [Chrome Web Store page](https://chromewebstore.google.com/detail/ai-bookmark-manager/mpnmfjocciokodlnmenlopnalmdhaigh)
    - Click "Add to Chrome"
    - Follow the installation prompts
 
